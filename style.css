@@ -1,0 +1,39 @@
+body {
+  background-color: #ffcccc;
+}
+img {
+  border-radius: 25px;
+  width: 450px;
+  box-shadow: 10px 10px 5px grey;
+  margin: 250px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+p {
+    color: white;
+    font-family: Monaco, monospace;
+
+}
+li {
+  color: white;
+  font-family: Monaco, monospace;
+}
+.subtitles {
+  color: #ff9999;
+  font-family: Courier, monospace;
+  text-align: left;
+}
+#title {
+  color: #ff6699;
+  font-size: 40px;
+  font-family: Courier, monospace;
+  text-align: center;
+}
+
+#title:hover {
+  color: #ff3399;
+  transform: rotate(-10deg);
+  transition-timing-function: ease-in-out;
+
+
+
